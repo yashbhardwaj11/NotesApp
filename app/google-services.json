@@ -1,0 +1,97 @@
+{
+  "project_info": {
+    "project_number": "720618764982",
+    "project_id": "tempuswall-b293a",
+    "storage_bucket": "tempuswall-b293a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720618764982:android:648e7bacac99c12feec417",
+        "android_client_info": {
+          "package_name": "com.devinfusion.internshalaassignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4sFV0Q-S_RQ4s_Oc91gxfONaD1KjrlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720618764982:android:4b054290d9f699ffeec417",
+        "android_client_info": {
+          "package_name": "com.devinfusion.moviplex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4sFV0Q-S_RQ4s_Oc91gxfONaD1KjrlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720618764982:android:59864c9cc98c410deec417",
+        "android_client_info": {
+          "package_name": "com.devinfusion.tempuswall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDh4sFV0Q-S_RQ4s_Oc91gxfONaD1KjrlQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "720618764982-0je13jguse093nn3hge190a5sd41gv8u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
